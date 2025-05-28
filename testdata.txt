@@ -1,0 +1,214 @@
+﻿{
+  "search_metadata": {
+    "id": "6837484b7dcfbef3fdaadd9f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d2902c1edce2846b/6837484b7dcfbef3fdaadd9f.json",
+    "created_at": "2025-05-28 17:30:51 UTC",
+    "processed_at": "2025-05-28 17:30:51 UTC",
+    "google_light_url": "https://www.google.com/search?q=linux+print+architecture&oq=linux+print+architecture&sourceid=chrome&ie=UTF-8&gbv=1",
+    "raw_html_file": "https://serpapi.com/searches/d2902c1edce2846b/6837484b7dcfbef3fdaadd9f.html",
+    "total_time_taken": 0.51
+  },
+  "search_parameters": {
+    "engine": "google_light",
+    "q": "linux print architecture",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "linux print architecture",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "How to determine Linux kernel architecture?",
+      "link": "https://unix.stackexchange.com/questions/12453/how-to-determine-linux-kernel-architecture",
+      "displayed_link": "unix.stackexchange.com › questions › how-to-determine-linux-kernel-arch...",
+      "snippet": "I need to install Oracle Database 10g Release 2 on that machine. So, how can I decide whether kernel architecture is 32bit or 64bit? linux ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Best way to detect architecture for all Linux?",
+            "link": "https://unix.stackexchange.com/questions/582513/best-way-to-detect-architecture-for-all-linux"
+          },
+          {
+            "title": "Three ways to get machine architecture - Unix & Linux Stack Exchange",
+            "link": "https://unix.stackexchange.com/questions/721135/three-ways-to-get-machine-architecture"
+          }
+        ]
+      },
+      "date": "May 2, 2011"
+    },
+    {
+      "position": 2,
+      "title": "How to find architecture of my PC and Ubuntu?",
+      "link": "https://askubuntu.com/questions/189640/how-to-find-architecture-of-my-pc-and-ubuntu",
+      "displayed_link": "askubuntu.com › questions › how-to-find-architecture-of-my-pc-and-ubuntu",
+      "snippet": "The command is uname -m. Open a terminal try using uname -m command. This should show you the OS architecture.",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How can I determine the OS architecture (32-bit or 64-bit) from a file ...",
+            "link": "https://askubuntu.com/questions/640163/how-can-i-determine-the-os-architecture-32-bit-or-64-bit-from-a-file-on-a-disk"
+          },
+          {
+            "title": "CPU architecture scanning using bash - command line - Ask Ubuntu",
+            "link": "https://askubuntu.com/questions/803596/cpu-architecture-scanning-using-bash"
+          }
+        ]
+      },
+      "date": "Sep 17, 2012"
+    },
+    {
+      "position": 3,
+      "title": "How to Check If Your Linux Is ARM64 or x86 Architecture - Medium",
+      "link": "https://medium.com/@kv2023/how-to-check-if-your-linux-is-arm64-or-x86-architecture-f0cd817fb266",
+      "displayed_link": "medium.com › how-to-check-if-your-linux-is-arm64-or-x86-architecture-f...",
+      "snippet": "The simplest way to determine your system's architecture is by using the uname command, which prints system information. Open your terminal and ...",
+      "date": "May 25, 2024"
+    },
+    {
+      "position": 4,
+      "title": "How To Check CPU architecture command Linux? Unlock Magic!",
+      "link": "https://cyberpanel.net/blog/how-to-check-cpu-architecture-command-linux",
+      "displayed_link": "cyberpanel.net › blog › how-to-check-cpu-architecture-command-linux",
+      "snippet": "We're going to cover how to check CPU architecture command Linux by using different tools and commands that exist within the Linux operating system.",
+      "date": "Oct 17, 2024"
+    },
+    {
+      "position": 5,
+      "title": "How to find the processor / chip architecture on Linux - Stack Overflow",
+      "link": "https://stackoverflow.com/questions/7066625/how-to-find-the-processor-chip-architecture-on-linux",
+      "displayed_link": "stackoverflow.com › questions › how-to-find-the-processor-chip-architectu...",
+      "snippet": "In the terminal, type lscpu which returns output like this: Architecture: i686 CPU op-mode(s): 32-bit, 64-bit Byte Order: Little Endian CPU(s): 2 On-line CPU(s ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How can I get the architecture of a '.a' file? - Stack Overflow",
+            "link": "https://stackoverflow.com/questions/3740379/how-can-i-get-the-architecture-of-a-a-file"
+          },
+          {
+            "title": "Determining cpu architecture at runtime linux? - Stack Overflow",
+            "link": "https://stackoverflow.com/questions/69071654/determining-cpu-architecture-at-runtime-linux"
+          }
+        ]
+      },
+      "date": "Aug 15, 2011"
+    },
+    {
+      "position": 6,
+      "title": "'arch' Linux Command | Reference Guide with Examples",
+      "link": "https://ioflood.com/blog/arch-command-in-linux/",
+      "displayed_link": "ioflood.com › blog › arch-command-in-linux",
+      "snippet": "The 'arch' command in Linux is a simple yet powerful tool that displays the architecture of the machine you're using.",
+      "date": "Dec 7, 2023"
+    },
+    {
+      "position": 7,
+      "title": "How to Check the Linux System Architecture Type",
+      "link": "https://lwebapp.com/en/post/how-to-check-the-linux-system-architecture-type",
+      "displayed_link": "lwebapp.com › post › how-to-check-the-linux-system-architecture-type",
+      "snippet": "The arch command is used to display the operating system's architecture type, similar to the uname -m command. If the output is x86_64, the ...",
+      "date": "Aug 13, 2023"
+    },
+    {
+      "position": 8,
+      "title": "Architecture of linux operating system | GeeksforGeeks",
+      "link": "https://www.geeksforgeeks.org/architecture-of-linux-operating-system/",
+      "displayed_link": "www.geeksforgeeks.org › architecture-of-linux-operating-system",
+      "snippet": "The main component of the Linux operating system is Linux kernel. It is developed to provide low-cost or free operating system service to personal system users.",
+      "extensions": [
+        "Apr 4, 2025"
+      ],
+      "date": "Apr 4, 2025",
+      "missing": [
+        "print"
+      ],
+      "must_include": {
+        "word": "print",
+        "link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&q=linux+%22print%22+architecture&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQ5t4CegQIARAG"
+      }
+    },
+    {
+      "position": 9,
+      "title": "Linux Find If Processor (CPU) is 64 bit / 32 bit [long mode ~ lm]",
+      "link": "https://www.cyberciti.biz/faq/linux-how-to-find-if-processor-is-64-bit-or-not/",
+      "displayed_link": "www.cyberciti.biz › faq › linux-how-to-find-if-processor-is-64-bit-or-not",
+      "snippet": "Open the Linux terminal application. Type uname -a to print system information. Run getconf LONG_BIT to see if Linux kernel is 32 or 64 bit.",
+      "date": "Apr 13, 2024"
+    },
+    {
+      "position": 10,
+      "title": "Find Your Linux Architecture - Don't worry, it's easy",
+      "link": "https://developnsolve.com/determining-your-linux-architecture",
+      "displayed_link": "developnsolve.com › determining-your-linux-architecture",
+      "snippet": "The quickest way to check your Linux architecture is by using the terminal. Just open a terminal window and type: uname -m. This will print out your machine's ...",
+      "date": "Dec 30, 2023"
+    }
+  ],
+  "related_questions": [
+    {
+      "snippet": "Using the uname Command linux check architecture: To check for the CPU architecture in Linux, you can use the uname -m command. check OS architecture Linux: This command also checks out the OS architecture along with the CPU.Oct 17, 2024",
+      "more_results_link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&ei=S0g3aLzkM6LPxc8Pr7Xl0AE&q=What+is+the+command+to+print+architecture+in+Linux?&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQzmd6BAgHEAc"
+    },
+    {
+      "snippet": "Open the Terminal and type uname -m. If the response is x86_64, your system uses Intel architecture. If the response is arm64, you're running on ARM architecture.",
+      "more_results_link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&ei=S0g3aLzkM6LPxc8Pr7Xl0AE&q=How+to+check+if+Linux+is+x64+or+arm64?&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQzmd6BAgHEA4"
+    },
+    {
+      "snippet": "uname Command Using the uname -a command provides direct access to the current Linux system's architecture information. This command is compatible with nearly all Linux/Unix systems.Aug 13, 2023",
+      "more_results_link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&ei=S0g3aLzkM6LPxc8Pr7Xl0AE&q=How+do+I+see+my+Linux+architecture?&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQzmd6BAgHEBU"
+    },
+    {
+      "snippet": "Using the uname Command. The uname command prints import information such as OS name and machine name. Further, it shows us that our machine is a 64-bit x86_64 type and also prints the kernel version.",
+      "more_results_link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&ei=S0g3aLzkM6LPxc8Pr7Xl0AE&q=How+do+I+print+system+properties+in+Linux?&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQzmd6BAgHEBw"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "Linux check architecture ARM or AMD",
+      "link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&q=Linux+check+architecture+ARM+or+AMD&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQ1QJ6BAgJEAo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Linux+check+architecture+ARM+or+AMD"
+    },
+    {
+      "query": "Linux architecture",
+      "link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&q=Linux+architecture&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQ1QJ6BAgJEAw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Linux+architecture"
+    },
+    {
+      "query": "Linux print architecture command line",
+      "link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&q=Linux+print+architecture+command+line&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQ1QJ6BAgJEA4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Linux+print+architecture+command+line"
+    },
+    {
+      "query": "Check Linux architecture Ubuntu",
+      "link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&q=Check+Linux+architecture+Ubuntu&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQ1QJ6BAgJEBA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Check+Linux+architecture+Ubuntu"
+    },
+    {
+      "query": "Ubuntu architecture diagram",
+      "link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&q=Ubuntu+architecture+diagram&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQ1QJ6BAgJEBI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Ubuntu+architecture+diagram"
+    },
+    {
+      "query": "X86_64 architecture",
+      "link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&q=X86_64+architecture&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQ1QJ6BAgJEBQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=X86_64+architecture"
+    },
+    {
+      "query": "AArch64",
+      "link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&q=AArch64&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQ1QJ6BAgJEBY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=AArch64"
+    },
+    {
+      "query": "Ubuntu architecture x86_64",
+      "link": "https://www.google.com/search?sca_esv=c28d7f4a7239b712&gbv=1&q=Ubuntu+architecture+x86_64&sa=X&ved=2ahUKEwj8tZ3X2MaNAxWiZ_EDHa9aGRoQ1QJ6BAgJEBg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Ubuntu+architecture+x86_64"
+    }
+  ],
+  "serpapi_pagination": {
+    "current": 1,
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=linux+print+architecture&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+  }
+}
