@@ -29,7 +29,6 @@ class Program
             if (resultCounter == 10)
             {
                 Console.WriteLine("That was the last result. Lets hope what you're looking for is in the Related Questions.");
-                break;
             }
         }
         resultCounter = 0;
