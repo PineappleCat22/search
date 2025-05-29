@@ -1,0 +1,173 @@
+{
+  "search_metadata": {
+    "id": "6837c08dd45a38ba5ad159c6",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4d0a4e02580f8274/6837c08dd45a38ba5ad159c6.json",
+    "created_at": "2025-05-29 02:03:57 UTC",
+    "processed_at": "2025-05-29 02:03:57 UTC",
+    "google_light_url": "https://www.google.com/search?q=linux+make+cgroup&oq=linux+make+cgroup&sourceid=chrome&ie=UTF-8&gbv=1",
+    "raw_html_file": "https://serpapi.com/searches/4d0a4e02580f8274/6837c08dd45a38ba5ad159c6.html",
+    "total_time_taken": 0.58
+  },
+  "search_parameters": {
+    "engine": "google_light",
+    "q": "linux make cgroup",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "linux make cgroup",
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "3.3. Creating Control Groups | Red Hat Enterprise Linux | 7",
+      "link": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/resource_management_guide/sec-creating_cgroups-libcgroup",
+      "displayed_link": "docs.redhat.com › documentation › html › sec-creating_cgroups-libcgroup",
+      "snippet": "Use the cgcreate command to create transient cgroups in hierarchies you created yourself. The syntax for cgcreate is:"
+    },
+    {
+      "position": 2,
+      "title": "Creating and organizing cgroups · cgroup2",
+      "link": "https://facebookmicrosites.github.io/cgroup2/docs/create-cgroups.html",
+      "displayed_link": "facebookmicrosites.github.io › cgroup2 › docs › create-cgroups",
+      "snippet": "Initially, only the root cgroup exists, to which all processes belong. You create an empty child cgroup by adding a subdirectory: mkdir /sys/fs/cgroup/cg1."
+    },
+    {
+      "position": 3,
+      "title": "cgroups(7) - Linux manual page - Michael Kerrisk",
+      "link": "https://man7.org/linux/man-pages/man7/cgroups.7.html",
+      "displayed_link": "man7.org › linux › man-pages › man7 › cgroups.7.html",
+      "snippet": "A new cgroup is created by creating a directory in the cgroup filesystem: mkdir /sys/fs/cgroup/cpu/cg1 This creates a new empty cgroup. A process may be moved ..."
+    },
+    {
+      "position": 4,
+      "title": "How can I create and use Linux cgroups as a non-root user?",
+      "link": "https://serverfault.com/questions/478946/how-can-i-create-and-use-linux-cgroups-as-a-non-root-user",
+      "displayed_link": "serverfault.com › questions › how-can-i-create-and-use-linux-cgroups-as-a...",
+      "snippet": "You can setup a cgroup as root, and make it configurable by your user. If you do not already have the default cgroups controllers mounted by eg systemd.",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "How to find out cgroup of a particular process? - Server Fault",
+            "link": "https://serverfault.com/questions/560206/how-to-find-out-cgroup-of-a-particular-process"
+          },
+          {
+            "title": "What is required to activate cgroups in Linux - Server Fault",
+            "link": "https://serverfault.com/questions/525162/what-is-required-to-activate-cgroups-in-linux"
+          }
+        ]
+      },
+      "date": "Feb 14, 2013"
+    },
+    {
+      "position": 5,
+      "title": "A Linux sysadmin's introduction to cgroups - Reddit",
+      "link": "https://www.reddit.com/r/linux/comments/jp8xyk/a_linux_sysadmins_introduction_to_cgroups/",
+      "displayed_link": "www.reddit.com › linux › comments › a_linux_sysadmins_introduction_to...",
+      "snippet": "When you define a service file you can add a 'Slice=' argument to have it create a cgroup for the service. This way you don't have to deal with ...",
+      "date": "Nov 6, 2020"
+    },
+    {
+      "position": 6,
+      "title": "Controlling Process Resources with Linux Control Groups",
+      "link": "https://labs.iximiuz.com/tutorials/controlling-process-resources-with-cgroups",
+      "displayed_link": "labs.iximiuz.com › tutorials › controlling-process-resources-with-cgroups",
+      "snippet": "First, let's create a new cgroup by making a directory in the cgroup filesystem. This will be the group where we can set limits on CPU and memory usage for our ..."
+    },
+    {
+      "position": 7,
+      "title": "cgroups - ArchWiki",
+      "link": "https://wiki.archlinux.org/title/Cgroups",
+      "displayed_link": "wiki.archlinux.org › title › Cgroups",
+      "snippet": "Control groups (or cgroups as they are commonly known) are a feature provided by the Linux kernel to manage, restrict, and audit groups of processes.",
+      "date": "Jun 22, 2024"
+    },
+    {
+      "position": 8,
+      "title": "2.5. Creating Control Groups | Red Hat Enterprise Linux | 6",
+      "link": "https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/resource_management_guide/sec-creating_cgroups",
+      "displayed_link": "docs.redhat.com › documentation › html › resource_management_guide",
+      "snippet": "Use the cgcreate command to create cgroups. The syntax for cgcreate is: 1; 2 ... where: -t (optional) — specifies a user (by user ID, uid) and a group (by group ..."
+    },
+    {
+      "position": 9,
+      "title": "A (Very) Simple Introduction to Linux cgroups - Medium",
+      "link": "https://medium.com/@simonconnah/a-very-simple-introduction-to-linux-cgroups-4f4aeeedd148",
+      "displayed_link": "medium.com › a-very-simple-introduction-to-linux-cgroups-4f4aeeedd148",
+      "snippet": "A cgroup is a Linux kernel feature that allows processes to be run together in a group (as well as those processes children) and then have resource usage ...",
+      "date": "Oct 16, 2023"
+    },
+    {
+      "position": 10,
+      "title": "Control Groups - The Linux Kernel documentation",
+      "link": "https://docs.kernel.org/admin-guide/cgroup-v1/cgroups.html",
+      "displayed_link": "docs.kernel.org › admin-guide › cgroup-v1 › cgroups",
+      "snippet": "Creating, modifying, using cgroups can be done through the cgroup virtual filesystem. To mount a cgroup hierarchy with all available subsystems, type:."
+    }
+  ],
+  "related_questions": [
+    {
+      "snippet": "1) mount -t tmpfs cgroup_root /sys/fs/cgroup 2) mkdir /sys/fs/cgroup/cpuset 3) mount -t cgroup -ocpuset cpuset /sys/fs/cgroup/cpuset 4) Create the new cgroup by doing mkdir's and write's (or echo's) in the /sys/fs/cgroup/cpuset virtual file system.",
+      "more_results_link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&ei=jcA3aJmDDOW2kvQPmc7h2AI&q=How+do+you+create+a+cgroup+in+Linux?&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQzmd6BAgIEAc"
+    },
+    {
+      "snippet": "cgroups (abbreviated from control groups) is a Linux kernel feature that limits, accounts for, and isolates the resource usage (CPU, memory, disk I/O, etc.)",
+      "more_results_link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&ei=jcA3aJmDDOW2kvQPmc7h2AI&q=What+is+Linux+cgroup?&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQzmd6BAgIEA4"
+    },
+    {
+      "more_results_link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&ei=jcA3aJmDDOW2kvQPmc7h2AI&q=How+do+I+change+to+cgroup+v1?&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQzmd6BAgIEBY"
+    },
+    {
+      "snippet": "With cgroups you can specify how much CPU time, system memory, network bandwidth, or combinations of these resources can be used by the processes residing in a certain group. The advantage of control groups over nice or cpulimit is that the limits are applied to a set of processes, rather than to just one.",
+      "more_results_link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&ei=jcA3aJmDDOW2kvQPmc7h2AI&q=What+is+the+difference+between+nice+and+cgroup?&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQzmd6BAgIEB0"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "Linux make cgroup example",
+      "link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&q=Linux+make+cgroup+example&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQ1QJ6BAgJEAo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Linux+make+cgroup+example"
+    },
+    {
+      "query": "Linux make cgroup reddit",
+      "link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&q=Linux+make+cgroup+reddit&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQ1QJ6BAgJEAw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Linux+make+cgroup+reddit"
+    },
+    {
+      "query": "Linux make cgroup list",
+      "link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&q=Linux+make+cgroup+list&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQ1QJ6BAgJEA4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Linux+make+cgroup+list"
+    },
+    {
+      "query": "Cgroups Linux example",
+      "link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&q=Cgroups+Linux+example&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQ1QJ6BAgJEBA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Cgroups+Linux+example"
+    },
+    {
+      "query": "How to check cgroups in Linux",
+      "link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&q=How+to+check+cgroups+in+Linux&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQ1QJ6BAgJEBI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=How+to+check+cgroups+in+Linux"
+    },
+    {
+      "query": "What is cgroup in Linux",
+      "link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&q=What+is+cgroup+in+Linux&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQ1QJ6BAgJEBQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=What+is+cgroup+in+Linux"
+    },
+    {
+      "query": "Linux make cgroup github",
+      "link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&q=Linux+make+cgroup+github&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQ1QJ6BAgJEBY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Linux+make+cgroup+github"
+    },
+    {
+      "query": "Linux cgroups v2",
+      "link": "https://www.google.com/search?sca_esv=8725bcfc7c963a92&gbv=1&q=Linux+cgroups+v2&sa=X&ved=2ahUKEwjZ_emuy8eNAxVlm4QIHRlnGCsQ1QJ6BAgJEBg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=Linux+cgroups+v2"
+    }
+  ],
+  "serpapi_pagination": {
+    "current": 1,
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google_light&google_domain=google.com&q=linux+make+cgroup&start=10&location=Austin%2C+TX%2C+Texas%2C+United+States"
+  }
+}
