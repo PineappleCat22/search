@@ -1,14 +1,22 @@
-﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
+﻿using Newtonsoft.Json.Linq;
+using SerpApi;
+using System.Collections;
+
 
 class Program
 {
     static void Main(string[] args)
     {
-        //query the api here
-        string json = File.ReadAllText(@"C:\Users\waylo\source\repos\PineappleCat22\search\testdata2.txt");
+        Hashtable ht = new Hashtable();
+        ht.Add("engine", "google_light");
 
-        JObject obj = JObject.Parse(json);
+        Console.WriteLine("ENTER QUERY");
+        ht.Add("q", Console.ReadLine());
+
+        Console.WriteLine("PASTE API KEY REMOVE THIS"); //better than hardcoding it
+        GoogleSearch search = new GoogleSearch(ht, Console.ReadLine());
+
+        JObject obj = search.GetJson();
         JArray organicResults = (JArray)obj["organic_results"];
         JArray relatedQuestions = (JArray)obj["related_questions"];
 
