@@ -34,7 +34,7 @@ class Program
             {
                 System.Environment.Exit(0);
             }
-            if (resultCounter == 10)
+            if (resultCounter == 10) //this is terrible and breaks in some contexts
             {
                 Console.WriteLine("That was the last result. Lets hope what you're looking for is in the Related Questions.");
             }
@@ -47,7 +47,7 @@ class Program
             Console.WriteLine("Result #" + resultCounter);
             Console.WriteLine($"Snippet: {question["snippet"]?.ToString()}");
             Console.WriteLine();
-            if (resultCounter == 4)
+            if (resultCounter == 4) //this also breaks in some contexts
             {
                 Console.WriteLine("That was the last result. Exiting...");
                 System.Environment.Exit(0);
