@@ -2,6 +2,13 @@
 using SerpApi;
 using System.Collections;
 
+/*
+ * STILL TODO:
+ * store and retrieve api key from a config file
+ * cli arguments
+ * fix the weird context issues
+ * maaaaybe handle null cases if i really feel like it
+ */
 
 class Program
 {
